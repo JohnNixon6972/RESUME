@@ -17,7 +17,7 @@ This website was created because of one frustrated [John Nixon](https://johnnixo
 
 ## How this ?
 
-The frustrated Ben Stewart created this using the follows.
+The frustrated John Nixon created this using the follows.
 
 The tech stuff used are as follows:
 
@@ -35,7 +35,7 @@ To contribute, follow these steps:
 5. Create the pull request.
 
 ## Important NOTICE
-Hereby, Ben Stewart states that he takes no offence on the copying of this format for your resume. But please take note to change all the details and the QR CODE. You really would not want to advertise my website on your resume.
+Hereby, John Nixon states that he takes no offence on the copying of this format for your resume. But please take note to change all the details and the QR CODE. You really would not want to advertise my website on your resume.
 
 ## Contact
 
